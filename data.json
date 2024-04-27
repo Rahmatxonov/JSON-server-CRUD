@@ -1,0 +1,16 @@
+{
+  "Cars": [
+    {
+      "id": "2",
+      "name": "cobalt",
+      "color": "black",
+      "price": 12000
+    },
+    {
+      "id": "6bb9",
+      "name": "malibu",
+      "color": "qora",
+      "price": "25000"
+    }
+  ]
+}
